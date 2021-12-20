@@ -1,5 +1,5 @@
 # AgeGuesser
-An Application That Guesses Your Age 
+An Android application that guesses your age with a joke. 
 
 # What I Learned
 
